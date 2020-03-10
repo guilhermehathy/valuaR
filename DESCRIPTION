@@ -1,0 +1,16 @@
+Package: valuaR
+Title: Tools and Techniques for Determining the Value of Any Asset
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Guilherme",
+           family = "Hathy",
+           role = c("aut", "cre"),
+           email = "guilhermehathy@gmail.com")
+Description: Most of this package consists of tools for determining the valuation of stocks, 
+bonds, options, futures and real assets.
+Depends: R (>= 3.6.1)
+URL:https://github.com/guilhermehathy/valuaR
+BugReports: https://github.com/guilhermehathy/valuaR/issues
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
