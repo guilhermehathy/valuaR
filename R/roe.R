@@ -4,6 +4,7 @@
 #' @description ROE (Return On Equity) ou Retorno Sobre o Patrimônio Líquido é uma porcentagem 
 #'      usada para medir o quão eficiente uma empresa é para a capacidade de geração de lucros 
 #'      utilizando o capital investido pelos acionistas.
+#'      
 #'      \deqn{ROE = \frac{Lucro\ Líquido}{Patrimônio\ Líquido}}
 #' 
 #' @param lucroLiquido Lucro Líquido do período.
